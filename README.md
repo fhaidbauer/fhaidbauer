@@ -17,7 +17,7 @@ Actualmente estoy empleado como Data Analyst en IQVIA Solutions Argentina SA y s
   <a href="https://github.com/fhaidbauer/fhaidbauer/raw/main/Francisco_Haidbauer_CV%20SP.pdf" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/CV%20EN-Download-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV in English"/>
   </a>
-  <a href="https://github.com/fhaidbauer/fhaidbauer/raw/main/Francisco_Haidbauer_CV%20EN" target="_blank">
+  <a href="https://github.com/fhaidbauer/fhaidbauer/raw/main/Francisco_Haidbauer_CV%20EN.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV%20ES-Descargar-E85D04?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Descargar CV en Español"/>
   </a>
 </div>
