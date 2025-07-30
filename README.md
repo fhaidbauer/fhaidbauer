@@ -16,6 +16,10 @@ Actualmente estoy empleado como Data Analyst en IQVIA Solutions Argentina SA y s
 - Análisis y Visualización: Excel (intermedio), PowerBI (intermedio), PowerPoint (intermedio).
 - Lenguajes: Python (intermedio), SQL (intermedio), R (básico), MongoDB (básico).
 
+## 🌐 Proyectos
+
+[Ver Portfolio](https://fhaidbauer.github.io/Haidbauer-portfolio/)
+
 ## 📄 Currículum Vitae
 
 <div align="left">
