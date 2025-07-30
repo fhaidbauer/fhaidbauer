@@ -1,8 +1,8 @@
-# ¡Hola, soy Francisco!
+# 👋 ¡Hola, soy Francisco!
 
 Actualmente estoy empleado como Data Analyst en IQVIA Solutions Argentina SA y soy estudiante de la Tecnicatura en Ciencia de Datos e IA de ISTEA. Bienvenidos a mi perfil de Github, dentro de el van a poder encontrar información importante sobre mí, como también los proyectos en los que estuve trabajando.
 
-## Educación
+## 🎓 Educación
 - Tecnicatura en Ciencia de Datos e IA, ISTEA (2024-act)
 - Curso SQL, CoderHouse (2024)
 - Lic. en Ciencia de Datos, UNSAM (2023, ab.)
@@ -11,7 +11,12 @@ Actualmente estoy empleado como Data Analyst en IQVIA Solutions Argentina SA y s
 - Ingeniería Biomédica, UNSAM (2017-2022, ab.)
 - Bachillerato Bilingüe en Comunicación, Inst. Juan Santos Gaynor (2012-2016)
 
-## Currículum Vitae
+## 💻 Tecnologías y herramientas 
+
+- Análisis y Visualización: Excel (intermedio), PowerBI (intermedio), PowerPoint (intermedio).
+- Lenguajes: Python (intermedio), SQL (intermedio), R (básico), MongoDB (básico).
+
+## 📄 Currículum Vitae
 
 <div align="left">
   <a href="https://github.com/fhaidbauer/fhaidbauer/raw/main/Francisco_Haidbauer_CV%20EN.pdf" target="_blank" style="margin-right: 10px;">
