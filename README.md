@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola, soy Francisco!
 
-<!--
-**fhaidbauer/fhaidbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy empleado como Data Analyst en IQVIA Solutions Argentina SA y soy estudiante de la Tecnicatura en Ciencia de Datos e IA de ISTEA. Bienvenidos a mi perfil de Github, dentro de el van a poder encontrar información importante sobre mí, como también los proyectos en los que estuve trabajando.
 
-Here are some ideas to get you started:
+## Educación
+- Tecnicatura en Ciencia de Datos e IA, ISTEA (2024-act)
+- Curso SQL, CoderHouse (2024)
+- Lic. en Ciencia de Datos, UNSAM (2023, ab.)
+- Diplomatura en Ciencia de Datos e IA con Python, UNSAM (2023)
+- Curso Análisis de Datos con Python, EduacionIT (2023)
+- Ingeniería Biomédica, UNSAM (2017-2022, ab.)
+- Bachillerato Bilingüe en Comunicación, Inst. Juan Santos Gaynor (2012-2016)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currículum Vitae
+
+[📄 Descargar CV SP](https://github.com/fhaidbauer/fhaidbauer/raw/main/Francisco_Haidbauer_CV%SP.pdf)
+
+[📄 Descargar CV EN](https://github.com/fhaidbauer/fhaidbauer/raw/main/Francisco_Haidbauer_CV%EN.pdf)
+
+## 📫 Contacto
+- 📧 Email: franhaidbauer@gmail.com
+- 💼 Linkedin: https://www.linkedin.com/in/francisco-haidbauer-52b221170/
+- 🐙 GitHub: [fhaidbauer](https://github.com/fhaidbauer)
+
