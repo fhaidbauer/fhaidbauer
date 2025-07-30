@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Francisco!
 
-Actualmente estoy empleado como Data Analyst en IQVIA Solutions Argentina SA y soy estudiante de la Tecnicatura en Ciencia de Datos e IA de ISTEA. Bienvenidos a mi perfil de Github, dentro de el van a poder encontrar información importante sobre mí, como también los proyectos en los que estuve trabajando.
+Actualmente estoy trabajando como Data Analyst en IQVIA Solutions Argentina SA y soy estudiante de la Tecnicatura en Ciencia de Datos e IA de ISTEA. Bienvenidos a mi perfil de Github, dentro de el van a poder encontrar información importante sobre mí, como también los proyectos que estuve desarrollando.
 
 ## 🎓 Educación
 - Tecnicatura en Ciencia de Datos e IA, ISTEA (2024-act)
