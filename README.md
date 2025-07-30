@@ -18,7 +18,7 @@ Actualmente estoy empleado como Data Analyst en IQVIA Solutions Argentina SA y s
 
 ## 🌐 Proyectos
 
-[Ver Portfolio](https://fhaidbauer.github.io/Haidbauer-portfolio/)
+[Ver Portfolio](https://github.com/fhaidbauer/Haidbauer-portfolio)
 
 ## 📄 Currículum Vitae
 
